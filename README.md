@@ -32,6 +32,7 @@ Utilizaremos un conjunto de datos en formato CSV que contiene las siguientes col
 | AY | integer | default | Away Team Yellow Cards |
 | HR | integer | default | Home Team Red Cards |
 | AR | integer | default | Away Team Red Cards |
+
 Los datos se encuentran almacenados en la carpeta '/datos' y fue obtenido desde https://datahub.io/core/spanish-la-liga#season-2021 season-9900.
 
 ## Instrucciones básicas para ejecutar el script
